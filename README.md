@@ -1,9 +1,8 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Dicee 🎲
-# Mi Card <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
-[Mi Card](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14482954#overviewgit) from The Complete Flutter Development Bootcamp with Dart, [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/)
+# Dicee 🎲 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
+[Dicee](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14482954#overviewgit) from The Complete Flutter Development Bootcamp with Dart, [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/)
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
